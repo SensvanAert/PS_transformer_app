@@ -1,10 +1,16 @@
-# PS_transformer_app
-App to help with the process of testing transformers
+# transformer_testing_app
 
-All files placed in the repository should be placed inside the lib folder in your own flutter project.
+A new Flutter project.
 
-This app includes a home page, a page for each part in the testing project, a summary page.
-All values that are entered in the app are used to calculate the values on the summary page.
+## Getting Started
 
-Right now the app can only be used to test one specific transformer, but eventualy I'd like to add a database to the app.
-This would be used to store data of tested transformer and store data about transformer types.
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
