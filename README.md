@@ -10,4 +10,4 @@ This app can assist you with the process of testing transfomers.
 Timers in the app are set to miliseconds, to change this go to the page containing the timer find the function with the timers and change this to seconds.
 
 DISCLAIMER!!!
-DO NOT RELAY ON THIS APP FOR TESTING TRANSFORMERS
+DO NOT RELY ON THIS APP FOR TESTING TRANSFORMERS
